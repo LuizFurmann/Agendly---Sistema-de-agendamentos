@@ -52,9 +52,37 @@ Entregar uma solução simples, moderna e eficiente para empresas que precisam o
 
 ## 📸 Preview
 
-<p align="center">
+<table align="center">
 
-</p>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3419.PNG" width="220"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3459.jpg" width="220"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3460.jpg" width="220"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3461.jpg" width="220"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3462.jpg" width="220"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/dbf033cbb71cd759e59ccd9e95bbfbc3b9bdcf4d/IMG_3463.jpg" width="220"/>
+</td>
+</tr>
+
+</table>
 
 ---
 
