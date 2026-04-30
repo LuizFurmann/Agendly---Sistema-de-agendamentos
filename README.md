@@ -1,4 +1,3 @@
-![image alt](https://github.com/LuizFurmann/Agendly---Sistema-de-agendamentos/blob/fabf667380c964037e50a26759e252682ffd693b/banner.png)
 
 # 📅 Agendly - Controle de Agendamentos
 
@@ -54,7 +53,7 @@ Entregar uma solução simples, moderna e eficiente para empresas que precisam o
 ## 📸 Preview
 
 <p align="center">
-  <img src="./screenshot1.png" width="90%" />
+
 </p>
 
 ---
